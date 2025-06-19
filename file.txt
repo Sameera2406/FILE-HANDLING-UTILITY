@@ -1,0 +1,4 @@
+Hello
+Good morning
+Welcome to java files concept
+Files in java might be tricky,but it is fun enough!
