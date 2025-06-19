@@ -93,7 +93,8 @@ javac FileHandling.java
 
 java FileHandling
 
-###OUTPUT:
+##OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/d7bf898b-ef8a-40d8-aef6-d2d21abd4fc3)
 
 
